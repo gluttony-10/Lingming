@@ -1,0 +1,10 @@
+--extra-index-url https://www.paddlepaddle.org.cn/packages/stable/cu118/
+paddlepaddle-gpu==3.0.0
+#paddlepaddle # CPU
+paddleocr
+gradio
+openpyxl
+premailer
+frontend
+PyMuPDF
+tokenizers
