@@ -12,8 +12,8 @@
 ## 更新
 250402 新建项目
 ## 安装
+下载https://github.com/gluttony-10/Lingming/releases/download/250408/Lingming-250408.zip并解压
 ```
-git clone https://github.com/gluttony-10/Lingming
 cd Lingming
 pip install -r requirements.txt
 ```
@@ -23,4 +23,5 @@ python glut.py
 ```
 ## 参考项目
 https://github.com/PaddlePaddle/Paddle
+
 https://github.com/PaddlePaddle/PaddleOCR

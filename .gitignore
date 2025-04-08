@@ -2,6 +2,7 @@
 outputs/
 models/
 temp/
+pyarmor_runtime_000000/
 *.bat
 *.pdf
 hotwords.txt
